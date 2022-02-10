@@ -1,0 +1,5 @@
+npm init --y
+npm i
+npm i yargs validator chalk@4.0.0
+node index addUser --name=a --phone="123" --email=a@a --url=abc 
+--age="10"
